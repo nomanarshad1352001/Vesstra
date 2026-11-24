@@ -1,0 +1,1946 @@
+@media (min-width: 1600px) {
+  .sidebar {
+    width: 240px;
+  }
+  .workspace-body {
+    margin-left: 240px;
+  }
+  .main-content {
+    padding: 34px 36px;
+  }
+  .nav-link {
+    font-size: 14px;
+    min-height: 47px;
+  }
+  .metric {
+    padding: 22px 25px;
+    min-height: 163px;
+  }
+  .metric-top {
+    font-size: 12.5px;
+  }
+  .metric-value {
+    font-size: 39px;
+  }
+  .performance-chart {
+    height: 215px;
+  }
+  .section-head h2 {
+    font-size: 24px;
+  }
+  .allocation-legend button,
+  .allocation-legend strong {
+    font-size: 12px;
+  }
+  .allocation-legend button {
+    height: 32px;
+  }
+  .portfolio-mini td {
+    padding-top: 13px;
+    padding-bottom: 13px;
+  }
+}
+@media (max-width: 1250px) {
+  .sidebar {
+    width: 196px;
+  }
+  .workspace-body {
+    margin-left: 196px;
+  }
+  .sidebar-brand {
+    padding-left: 22px;
+  }
+  .main-content {
+    padding: 24px 22px;
+  }
+  .topbar {
+    padding: 0 23px;
+  }
+  .sidebar-nav {
+    padding-left: 11px;
+    padding-right: 11px;
+  }
+  .sidebar-bottom {
+    padding-left: 11px;
+    padding-right: 11px;
+  }
+  .nav-link {
+    font-size: 12px;
+    gap: 10px;
+  }
+  .metric {
+    padding: 16px 17px;
+    min-height: 142px;
+  }
+  .metric-grid {
+    gap: 12px;
+  }
+  .metrics-top {
+    font-size: 11px;
+  }
+  .section-head {
+    padding-left: 17px;
+    padding-right: 17px;
+  }
+  .section-head h2 {
+    font-size: 20px;
+  }
+  .analytics-grid,
+  .lower-grid {
+    grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    gap: 13px;
+  }
+  .allocation-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    gap: 12px;
+  }
+  .allocation-legend button,
+  .allocation-legend strong {
+    font-size: 10px;
+  }
+  .allocation-legend button {
+    gap: 5px;
+  }
+  .heading-actions {
+    gap: 6px;
+  }
+  .date-label {
+    font-size: 10px;
+  }
+  .page-heading p {
+    font-size: 11.5px;
+  }
+  .avatar-stack {
+    right: 13px;
+  }
+  .avatar-stack .avatar {
+    height: 23px;
+    width: 23px;
+    font-size: 7px;
+  }
+  .briefing-card {
+    padding: 21px 19px;
+  }
+  .brief-label {
+    font-size: 7.4px;
+    letter-spacing: 1.4px;
+  }
+  .portfolio-mini th:first-child,
+  .portfolio-mini td:first-child {
+    padding-left: 15px;
+  }
+  .portfolio-mini td {
+    font-size: 10.5px;
+  }
+  .feature-grid {
+    gap: 12px;
+  }
+  .feature-card,
+  .integration-card,
+  .api-link-card {
+    padding: 17px;
+  }
+  .tour-card {
+    gap: 7px;
+  }
+  .tour-card small {
+    font-size: 8px;
+  }
+  .calendar-layout {
+    grid-template-columns: minmax(0, 1.7fr) minmax(210px, 1fr);
+    gap: 12px;
+  }
+}
+@media (max-width: 1100px) {
+  .sidebar {
+    width: 180px;
+  }
+  .workspace-body {
+    margin-left: 180px;
+  }
+  .brand > svg {
+    width: 30px;
+  }
+  .wordmark {
+    font-size: 31px;
+  }
+  .brand-caption {
+    font-size: 6.9px;
+    letter-spacing: 2.1px;
+  }
+  .main-content {
+    padding: 23px 18px;
+  }
+  .sidebar-brand {
+    padding: 0 19px;
+    height: 91px;
+  }
+  .nav-heading {
+    font-size: 8px;
+  }
+  .nav-link {
+    padding: 0 11px;
+  }
+  .sidebar-nav {
+    padding-top: 17px;
+  }
+  .nav-group + .nav-group {
+    margin-top: 22px;
+    padding-top: 21px;
+  }
+  .tour-card > svg {
+    display: none;
+  }
+  .heading-actions .date-label {
+    display: none;
+  }
+  .metric-top {
+    font-size: 10.7px;
+    gap: 6px;
+  }
+  .metric-primary .metric-value {
+    font-size: 30px;
+  }
+  .metric-value {
+    font-size: 27px;
+  }
+  .metric-foot {
+    font-size: 8.7px;
+    gap: 5px;
+  }
+  .metric {
+    padding: 15px;
+    min-height: 137px;
+  }
+  .metric-icon {
+    width: 26px;
+    height: 26px;
+  }
+  .sparkline {
+    width: 21%;
+    right: 13px;
+    bottom: 16px;
+  }
+  .avatar-stack {
+    display: none;
+  }
+  .household-count .metric-value {
+    margin: 8px 0;
+    font-size: 31px;
+  }
+  .section-head h2 {
+    font-size: 18px;
+  }
+  .section-head {
+    padding-top: 17px;
+    padding-right: 14px;
+    padding-left: 14px;
+  }
+  .range-tabs button {
+    min-width: 22px;
+    font-size: 8.5px;
+  }
+  .performance-chart {
+    height: 175px;
+    margin-right: 11px;
+    margin-left: 6px;
+  }
+  .chart-legend {
+    font-size: 9px;
+    padding-left: 15px;
+  }
+  .chart-caption {
+    font-size: 8px;
+    margin-left: 15px;
+  }
+  .allocation-content {
+    gap: 10px;
+    padding: 12px;
+  }
+  .allocation-legend button,
+  .allocation-legend strong {
+    font-size: 9.3px;
+  }
+  .allocation-foot {
+    margin-left: 13px;
+    margin-right: 13px;
+    font-size: 8.6px;
+  }
+  .donut-wrap {
+    width: 42.5%;
+  }
+  .donut-center > span {
+    font-size: 6px;
+  }
+  .analytics-grid,
+  .lower-grid {
+    grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  }
+  .briefing-card h2 {
+    font-size: 23px;
+  }
+  .briefing-card p {
+    font-size: 10.8px;
+  }
+  .profile-button {
+    gap: 8px;
+  }
+  .topbar-tools {
+    gap: 3px;
+  }
+  .search-top {
+    display: none;
+  }
+  .topbar {
+    padding: 0 20px;
+  }
+  .header-separator {
+    margin: 0 5px;
+  }
+  .feature-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .calendar-top h2 {
+    font-size: 18px;
+  }
+  .calendar-grid > button,
+  .calendar-grid > .off-month {
+    min-height: 65px;
+  }
+  .calendar-top {
+    padding: 14px 10px;
+  }
+  .summary-strip > button {
+    padding: 15px;
+    gap: 9px;
+  }
+  .account-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .portfolio-mini .avatar {
+    width: 29px;
+    height: 29px;
+    font-size: 9px;
+  }
+  .portfolio-mini .person-cell {
+    gap: 8px;
+  }
+  .portfolio-mini .person-cell strong {
+    font-size: 10.5px;
+  }
+  .briefing-card {
+    min-height: 235px;
+  }
+  .brief-orbits {
+    opacity: 0.65;
+  }
+  .tabs {
+    gap: 1px;
+  }
+  .tabs button {
+    padding: 7px 10px;
+  }
+}
+@media (max-width: 900px) {
+  .sidebar {
+    display: none;
+  }
+  .workspace-body {
+    margin-left: 0;
+    padding-bottom: 67px;
+  }
+  .topbar {
+    height: 60px;
+    padding: 0 20px;
+  }
+  .mobile-brand {
+    display: block;
+  }
+  .breadcrumb {
+    display: none;
+  }
+  .search-top {
+    display: inline-flex;
+  }
+  .brand-small > svg {
+    width: 26px;
+    height: 31px;
+  }
+  .brand-small .wordmark {
+    font-size: 28px;
+  }
+  .bottom-tabs {
+    position: fixed;
+    inset: auto 0 0;
+    z-index: 40;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+    padding: 4px 12px calc(4px + env(safe-area-inset-bottom));
+    box-shadow: 0 -3px 14px #132a3806;
+  }
+  .bottom-tabs a,
+  .bottom-tabs button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    min-height: 48px;
+    min-width: 60px;
+    padding: 3px 12px;
+    border: 0;
+    border-radius: 6px;
+    background: none;
+    color: var(--muted);
+    font-size: 9px;
+  }
+  .bottom-tabs .active {
+    background: var(--cream);
+    color: var(--text);
+  }
+  .drawer-backdrop {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background: #10233466;
+    z-index: 60;
+    backdrop-filter: blur(2px);
+  }
+  .mobile-drawer {
+    display: flex;
+    flex-direction: column;
+    width: min(285px, 85vw);
+    height: 100dvh;
+    background: var(--surface);
+    box-shadow: 7px 0 35px #13263324;
+  }
+  .mobile-drawer .sidebar-brand {
+    height: 85px;
+    justify-content: space-between;
+  }
+  .mobile-close {
+    display: inline-flex;
+  }
+  .mobile-drawer .sidebar-nav {
+    padding: 12px 15px;
+  }
+  .mobile-drawer .nav-link {
+    min-height: 44px;
+    font-size: 13px;
+  }
+  .mobile-drawer .sidebar-bottom {
+    padding-bottom: 15px;
+  }
+  .main-content {
+    padding: 24px 21px;
+  }
+  .page-heading {
+    margin-bottom: 19px;
+  }
+  .page-heading h1 {
+    font-size: 35px;
+  }
+  .metric-primary .metric-value {
+    font-size: 31px;
+  }
+  .metric-value {
+    font-size: 27px;
+  }
+  .metric-grid {
+    grid-template-columns: 1.2fr 1fr 0.85fr;
+  }
+  .toast {
+    bottom: 77px;
+  }
+  .app-footer {
+    padding: 15px 21px;
+  }
+  .calendar-layout {
+    grid-template-columns: minmax(0, 1.55fr) minmax(195px, 1fr);
+  }
+  .login-layout {
+    gap: 28px;
+    padding: 35px 23px;
+  }
+  .login-intro {
+    padding: 25px;
+  }
+  .login-options h2 {
+    font-size: 28px;
+  }
+  .role-choice {
+    padding: 13px 11px;
+    gap: 9px;
+  }
+  .marketing-header {
+    padding: 0 4vw;
+  }
+  .marketing-nav {
+    gap: 19px;
+  }
+  .marketing-section,
+  .marketing-intro {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+  .marketing-card > div:last-child {
+    padding: 15px;
+  }
+  .marketing-cards {
+    gap: 12px;
+  }
+  .marketing-card h3 {
+    font-size: 18px;
+  }
+  .marketing-section-title {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0;
+  }
+  .marketing-section-title p {
+    margin-bottom: 14px;
+  }
+  .proposal-layout {
+    gap: 4vw;
+    padding: 40px 4vw;
+  }
+  .proposal-form {
+    padding: 20px;
+  }
+  .proposal-form .form-two {
+    grid-template-columns: 1fr;
+  }
+  .roadmap-grid,
+  .team-grid {
+    gap: 13px;
+  }
+  .roadmap-grid article {
+    padding: 16px;
+  }
+  .roadmap-grid article > div {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .skip {
+    left: 10px;
+  }
+  .marketing .app-footer {
+    padding-bottom: 18px;
+  }
+  .login-page .app-footer {
+    padding-bottom: 18px;
+  }
+}
+@media (max-width: 720px) {
+  .analytics-grid,
+  .lower-grid {
+    grid-template-columns: 1fr;
+  }
+  .analytics-grid {
+    gap: 15px;
+  }
+  .performance-chart {
+    height: 205px;
+    margin-left: 11px;
+    margin-right: 18px;
+  }
+  .section-head {
+    padding: 17px 19px 0;
+  }
+  .section-head h2 {
+    font-size: 21px;
+  }
+  .performance-card .chart-legend {
+    padding-left: 20px;
+  }
+  .chart-caption {
+    margin-left: 20px;
+  }
+  .allocation-content {
+    flex-direction: row;
+    justify-content: center;
+    gap: 35px;
+    padding: 15px 25px;
+  }
+  .donut-wrap {
+    width: 140px;
+    flex-shrink: 0;
+  }
+  .allocation-legend {
+    max-width: 260px;
+  }
+  .allocation-legend button,
+  .allocation-legend strong {
+    font-size: 11px;
+  }
+  .allocation-legend button {
+    min-height: 27px;
+  }
+  .allocation-foot {
+    font-size: 10px;
+    margin: 0 20px 16px;
+  }
+  .donut-center strong {
+    font-size: 29px;
+  }
+  .donut-center > span {
+    font-size: 7.5px;
+  }
+  .briefing-card {
+    min-height: 235px;
+  }
+  .briefing-card p {
+    max-width: 80%;
+    font-size: 12px;
+  }
+  .briefing-card h2 {
+    font-size: 27px;
+  }
+  .brief-label {
+    font-size: 8.5px;
+  }
+  .metric-grid {
+    grid-template-columns: 1.1fr 1fr 0.8fr;
+    gap: 9px;
+  }
+  .metric-top {
+    font-size: 9.5px;
+  }
+  .metric-top .metric-icon {
+    width: 22px;
+    height: 22px;
+  }
+  .metric-top .metric-icon svg {
+    width: 14px;
+  }
+  .metric {
+    padding: 13px;
+    min-height: 127px;
+  }
+  .metric-primary .metric-value {
+    font-size: 26px;
+  }
+  .metric-value {
+    font-size: 23px;
+  }
+  .metric-primary .metric-drill {
+    display: none;
+  }
+  .sparkline {
+    display: none;
+  }
+  .metric-foot {
+    flex-wrap: wrap;
+  }
+  .metric-primary .metric-value {
+    margin-top: 12px;
+  }
+  .metric-grid .status {
+    font-size: 8px;
+  }
+  .portfolio-mini .person-cell strong {
+    font-size: 12px;
+  }
+  .portfolio-mini td {
+    font-size: 12px;
+  }
+  .portfolio-mini .avatar {
+    height: 34px;
+    width: 34px;
+    font-size: 10px;
+  }
+  .household-panel .section-head {
+    padding-bottom: 15px;
+  }
+  .calendar-layout {
+    grid-template-columns: 1fr;
+  }
+  .calendar-grid > button,
+  .calendar-grid > .off-month {
+    min-height: 70px;
+  }
+  .calendar-grid small {
+    font-size: 9px;
+  }
+  .summary-strip > button {
+    gap: 7px;
+    padding: 12px 10px;
+  }
+  .summary-icon {
+    width: 30px;
+    height: 30px;
+  }
+  .summary-strip small {
+    font-size: 9.5px;
+  }
+  .summary-strip strong {
+    font-size: 22px;
+  }
+  .summary-strip > button > svg {
+    display: none;
+  }
+  .calendar-layout .agenda .padded {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .agenda-filter {
+    grid-column: 1/-1;
+  }
+  .agenda .full-width {
+    height: 38px;
+  }
+  .agenda .empty {
+    grid-column: 1/-1;
+  }
+  .topbar-tools .profile-button > span:nth-child(2),
+  .profile-button > svg {
+    display: none;
+  }
+  .profile-separator {
+    display: none;
+  }
+  .profile-button {
+    margin-left: 3px;
+  }
+  .tabs {
+    width: 100%;
+  }
+  .tab-bar {
+    padding: 10px 12px;
+  }
+  .notes-grid {
+    grid-template-columns: 1fr;
+  }
+  .summary-strip {
+    gap: 8px;
+  }
+  .prompt-grid {
+    gap: 7px;
+  }
+  .prompt-grid button {
+    font-size: 10px;
+    padding: 11px;
+  }
+  .assistant-welcome {
+    padding: 32px 17px 18px;
+  }
+  .assistant-welcome h2 {
+    font-size: 25px;
+  }
+  .source-chip {
+    white-space: normal;
+    text-align: left;
+  }
+  .feature-grid.three,
+  .feature-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .login-layout {
+    grid-template-columns: 1fr;
+    padding: 21px;
+    gap: 24px;
+    max-width: 520px;
+  }
+  .login-intro {
+    min-height: 200px;
+    padding: 23px;
+  }
+  .login-intro h1 {
+    font-size: 32px;
+    margin: 12px 0;
+  }
+  .login-intro p {
+    font-size: 11.5px;
+    max-width: 100%;
+  }
+  .login-intro h1 br {
+    display: none;
+  }
+  .login-signature {
+    display: none;
+  }
+  .login-options h2 {
+    font-size: 29px;
+  }
+  .login-page > header {
+    height: 70px;
+    padding: 0 21px;
+  }
+  .login-page > header .brand-caption {
+    font-size: 6px;
+  }
+  .login-page .app-footer {
+    margin-top: 15px;
+  }
+  .marketing-nav {
+    display: none;
+  }
+  .marketing-header {
+    height: 63px;
+    padding: 0 18px;
+  }
+  .marketing-menu {
+    display: inline-flex;
+  }
+  .marketing-nav.is-open {
+    position: absolute;
+    top: 63px;
+    inset-inline: 0;
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+    flex-direction: column;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 7px 17px;
+    box-shadow: 0 7px 18px #1c34420c;
+  }
+  .marketing-nav.is-open a {
+    padding: 12px 4px;
+  }
+  .marketing-cards,
+  .how-grid,
+  .roadmap-grid,
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+  .marketing-card {
+    display: grid;
+    grid-template-columns: 1fr 1.3fr;
+  }
+  .marketing-card .stock-photo {
+    height: 100%;
+    min-height: 190px;
+  }
+  .marketing-section {
+    padding: 33px 5vw;
+  }
+  .marketing-section h2 {
+    margin-bottom: 13px;
+  }
+  .landing-hero {
+    min-height: 430px;
+    padding: 45px 6vw;
+  }
+  .landing-hero p {
+    font-size: 12.5px;
+  }
+  .security-feature {
+    padding: 28px 5vw;
+    gap: 13px;
+  }
+  .security-feature > svg {
+    width: 27px;
+  }
+  .testimonial {
+    margin: 0 5vw;
+    grid-template-columns: 1fr 1.7fr;
+  }
+  .testimonial > div:last-child {
+    padding: 16px;
+  }
+  .testimonial blockquote {
+    font-size: 19px;
+  }
+  .faq {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .marketing-cta {
+    padding: 27px 5vw;
+  }
+  .marketing-cta h2 {
+    font-size: 24px;
+  }
+  .proposal-layout {
+    grid-template-columns: 1fr;
+    padding: 24px 5vw;
+  }
+  .proposal-intro {
+    padding-top: 0;
+  }
+  .proposal-intro h1 {
+    font-size: 36px;
+  }
+  .proposal-intro h1 br {
+    display: none;
+  }
+  .proposal-points {
+    gap: 9px;
+  }
+  .proposal-form {
+    margin: 8px 0 15px;
+  }
+  .roadmap-grid article > div {
+    flex-direction: row;
+  }
+  .report-stats h3 {
+    font-size: 22px;
+  }
+  .full-width {
+    white-space: normal;
+  }
+  .app-footer > span:last-child {
+    display: none;
+  }
+}
+@media (max-width: 560px) {
+  .app-theme button:not(.calendar-grid button),
+  .app-theme .btn,
+  .app-theme select,
+  .app-theme .select-wrap {
+    min-height: 44px;
+  }
+  .app-theme .icon-btn {
+    height: 44px;
+    width: 36px;
+  }
+  .topbar {
+    padding: 0 14px;
+    height: 61px;
+    gap: 5px;
+  }
+  .topbar-tools {
+    gap: 0;
+  }
+  .topbar-tools .demo-pill {
+    padding: 3px 7px;
+    font-size: 8px;
+    gap: 4px;
+    margin-right: 5px;
+  }
+  .header-separator,
+  .search-top {
+    display: none;
+  }
+  .topbar .avatar {
+    width: 29px;
+    height: 29px;
+    font-size: 8px;
+  }
+  .brand-small {
+    gap: 5px;
+  }
+  .brand-small .wordmark {
+    font-size: 25px;
+  }
+  .brand-small > svg {
+    width: 24px;
+    height: 28px;
+  }
+  .notification-pop {
+    position: fixed;
+    right: 12px;
+    left: 12px;
+    top: 57px;
+    width: auto;
+    max-width: 360px;
+    margin-left: auto;
+  }
+  .profile-pop {
+    right: 0;
+    top: calc(100% + 3px);
+  }
+  .main-content {
+    padding: 22px 15px;
+  }
+  .page-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 13px;
+    margin-bottom: 17px;
+  }
+  .page-heading h1 {
+    font-size: 34px;
+    margin: 7px 0 4px;
+  }
+  .eyebrow {
+    font-size: 8.4px;
+    letter-spacing: 1.6px;
+  }
+  .page-heading p {
+    font-size: 11.8px;
+    max-width: 95%;
+  }
+  .heading-actions {
+    align-self: stretch;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .heading-actions .date-label {
+    display: inline-flex;
+    height: 31px;
+    font-size: 10px;
+    padding: 0 5px 0 0;
+  }
+  .heading-actions .select-wrap {
+    margin-left: auto;
+  }
+  .select-wrap select {
+    font-size: 11px;
+  }
+  .metric-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .metric-primary {
+    grid-column: 1/-1;
+  }
+  .metric {
+    padding: 14px;
+    min-height: 123px;
+  }
+  .metric-primary {
+    min-height: 146px;
+    padding: 17px 18px;
+  }
+  .metric-primary .metric-top,
+  .metric-top {
+    font-size: 9.9px;
+    gap: 6px;
+  }
+  .metric-primary .metric-top {
+    font-size: 12px;
+  }
+  .metric-top .metric-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 5px;
+  }
+  .metric-primary .metric-icon {
+    width: 29px;
+    height: 29px;
+  }
+  .metric-primary .metric-icon svg {
+    width: 17px;
+  }
+  .metric-primary .metric-value {
+    font-size: 36px;
+    margin: 10px 0 8px;
+  }
+  .metric-primary .metric-drill {
+    display: inline-flex;
+    min-height: 30px;
+    height: 30px;
+    width: 30px;
+  }
+  .metric-value {
+    font-size: clamp(20px, 5.15vw, 28px);
+    letter-spacing: -1.2px;
+    margin: 11px 0 9px;
+  }
+  .metric-primary .metric-foot {
+    font-size: 10px;
+  }
+  .metric-foot {
+    font-size: 9px;
+    gap: 4px;
+  }
+  .gain-pill {
+    font-size: 10px;
+  }
+  .household-count .metric-value {
+    font-size: 27px;
+    margin: 8px 0 7px;
+  }
+  .metric-grid .status {
+    font-size: 8px;
+  }
+  .household-metric .metric-foot {
+    font-size: 8.7px;
+  }
+  .wave-art {
+    width: 72%;
+  }
+  .metric-grid .metric:not(.metric-primary) .metric-top > span:last-child {
+    line-height: 1.35;
+  }
+  .analytics-grid,
+  .lower-grid {
+    gap: 14px;
+    margin-bottom: 14px;
+  }
+  .performance-card .section-head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding-top: 17px;
+  }
+  .section-head {
+    padding: 15px 16px 0;
+  }
+  .section-head h2 {
+    font-size: 21px;
+  }
+  .range-tabs {
+    align-self: stretch;
+    justify-content: space-between;
+    padding: 2px;
+  }
+  .range-tabs button {
+    flex: 1;
+    font-size: 10px;
+    min-height: 44px !important;
+  }
+  .performance-card .chart-legend {
+    padding: 12px 17px 0;
+    font-size: 9px;
+  }
+  .performance-chart {
+    height: 180px;
+    margin: 7px 10px 0 5px;
+  }
+  .chart-caption {
+    font-size: 8px;
+    margin: 9px 16px 15px;
+  }
+  .allocation-content {
+    padding: 7px 17px 14px;
+    gap: 18px;
+  }
+  .donut-wrap {
+    width: 40%;
+    max-width: 145px;
+  }
+  .allocation-legend button {
+    font-size: 10px;
+    min-height: 44px !important;
+  }
+  .allocation-legend strong {
+    font-size: 10px;
+  }
+  .allocation-foot {
+    font-size: 9px;
+    margin: 0 16px 14px;
+  }
+  .donut-center strong {
+    font-size: 27px;
+  }
+  .donut-center > span {
+    font-size: 6.2px;
+  }
+  .household-panel .section-head {
+    padding-bottom: 9px;
+  }
+  .portfolio-mini th {
+    font-size: 7px;
+    letter-spacing: 0.6px;
+  }
+  .portfolio-mini td {
+    padding: 7px 5px;
+    font-size: 10.5px;
+  }
+  .portfolio-mini td:last-child,
+  .portfolio-mini th:last-child {
+    display: none;
+  }
+  .portfolio-mini td:nth-child(3),
+  .portfolio-mini th:nth-child(3) {
+    padding-right: 13px;
+  }
+  .portfolio-mini .person-cell {
+    gap: 7px;
+  }
+  .portfolio-mini .person-cell strong {
+    font-size: 10px;
+  }
+  .portfolio-mini .person-cell small {
+    font-size: 8px;
+  }
+  .portfolio-mini .avatar {
+    width: 27px;
+    height: 27px;
+    font-size: 8px;
+  }
+  .return-text {
+    font-size: 9.3px;
+  }
+  .portfolio-mini th:first-child,
+  .portfolio-mini td:first-child {
+    padding-left: 13px;
+  }
+  .briefing-card {
+    padding: 22px;
+    min-height: 237px;
+  }
+  .briefing-card button {
+    margin: 16px 0;
+  }
+  .app-footer {
+    font-size: 8.5px;
+    padding: 14px 15px;
+  }
+  .bottom-tabs {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  .bottom-tabs a,
+  .bottom-tabs button {
+    font-size: 8.5px;
+    min-width: 52px;
+    padding: 3px 8px;
+  }
+  .modal {
+    padding: 20px 17px;
+    max-height: 85dvh;
+  }
+  .modal h2 {
+    font-size: 24px;
+  }
+  .form-two {
+    gap: 10px;
+  }
+  .form-stack input:not([type="file"]),
+  .form-stack select,
+  .form-stack textarea {
+    font-size: 16px;
+  }
+  .form-stack label {
+    font-size: 11px;
+  }
+  .form-actions {
+    gap: 7px;
+  }
+  .form-hint {
+    font-size: 10px;
+  }
+  .toast {
+    font-size: 11px;
+    bottom: 71px;
+    width: max-content;
+    max-width: calc(100% - 24px);
+    padding: 10px 13px;
+  }
+  .detail-row {
+    font-size: 10.7px;
+    gap: 8px;
+  }
+  .detail-row strong {
+    text-align: right;
+    overflow-wrap: anywhere;
+  }
+  .search-input {
+    height: 44px;
+  }
+  .search-input input,
+  .chat-compose input {
+    font-size: 16px;
+  }
+  .compact-search,
+  .list-toolbar > .search-input {
+    width: 100%;
+  }
+  .list-toolbar {
+    padding: 13px;
+    gap: 10px;
+  }
+  .list-toolbar .toolbar-right {
+    flex-wrap: wrap;
+    max-width: 100%;
+    width: 100%;
+  }
+  .list-toolbar .toolbar-right > .select-wrap {
+    flex: 1;
+  }
+  .tabs button {
+    padding: 7px 11px;
+    font-size: 11px;
+  }
+  .tab-bar {
+    padding: 7px 10px;
+  }
+  .summary-strip {
+    gap: 7px;
+    margin-bottom: 15px;
+  }
+  .summary-strip > button {
+    position: relative;
+    padding: 10px 9px;
+    align-items: flex-start;
+  }
+  .summary-strip .summary-icon {
+    display: none;
+  }
+  .summary-strip small {
+    font-size: 8px;
+  }
+  .summary-strip strong {
+    font-size: 20px;
+  }
+  .responsive-table {
+    display: block;
+    padding: 0 12px 10px;
+  }
+  .responsive-table thead {
+    display: none;
+  }
+  .responsive-table tbody,
+  .responsive-table tr {
+    display: block;
+  }
+  .responsive-table tr {
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    padding: 9px 12px;
+    margin: 8px 0;
+    background: var(--surface);
+  }
+  .responsive-table td {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    text-align: right;
+    border: 0;
+    padding: 4px 0;
+    font-size: 11px;
+  }
+  .responsive-table td:before {
+    content: attr(data-label);
+    color: var(--muted);
+    font-size: 9px;
+    font-weight: 400;
+    text-align: left;
+    flex-shrink: 0;
+  }
+  .responsive-table td:first-child {
+    font-weight: 500;
+    font-size: 12px;
+    text-align: left;
+    justify-content: flex-start;
+    border-bottom: 1px solid var(--border);
+    padding: 5px 0 9px;
+    margin-bottom: 6px;
+  }
+  .responsive-table td:first-child:before {
+    display: none;
+  }
+  .responsive-table td:not([data-label]) {
+    justify-content: flex-end;
+  }
+  .responsive-table .person-cell {
+    flex: 1;
+  }
+  .responsive-table .person-cell strong {
+    font-size: 12px;
+  }
+  .responsive-table .document-title {
+    font-size: 11.5px;
+  }
+  .table-title {
+    gap: 7px;
+  }
+  .responsive-table .block-muted {
+    margin-left: auto;
+  }
+  .responsive-table .table-title strong {
+    font-size: 11px;
+  }
+  .account-grid {
+    grid-template-columns: 1fr;
+    padding: 0 13px 13px;
+  }
+  .account-card {
+    padding: 15px;
+  }
+  .account-card h3 {
+    font-size: 18px;
+  }
+  .notes-grid {
+    padding: 0 12px 13px;
+    gap: 10px;
+  }
+  .content-list {
+    padding: 0 12px 8px;
+  }
+  .record-line {
+    gap: 7px;
+    padding: 12px 0;
+  }
+  .record-main strong {
+    font-size: 11.5px;
+  }
+  .record-main small {
+    font-size: 9.7px;
+  }
+  .pipeline-tip {
+    font-size: 9px;
+    padding: 0 13px 10px;
+  }
+  .board-scroll {
+    padding: 0 11px 14px;
+  }
+  .timeline {
+    padding: 0 13px 12px;
+  }
+  .chat-top {
+    padding: 12px;
+  }
+  .chat-content {
+    height: 400px;
+  }
+  .assistant-welcome {
+    padding: 22px 14px;
+  }
+  .welcome-spark {
+    height: 43px;
+    width: 43px;
+    margin: 0 0 16px;
+    border-radius: 11px;
+  }
+  .welcome-spark svg {
+    width: 23px;
+  }
+  .assistant-welcome h2 {
+    font-size: 23px;
+    margin: 7px 0;
+  }
+  .assistant-welcome p {
+    font-size: 10.8px;
+  }
+  .prompt-grid {
+    grid-template-columns: 1fr;
+    gap: 6px;
+    margin-top: 16px;
+  }
+  .prompt-grid button {
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    padding: 9px 11px;
+    font-size: 10.5px;
+  }
+  .prompt-grid button > svg:first-child {
+    width: 15px;
+  }
+  .prompt-grid button > svg:last-child {
+    position: static;
+    margin-left: auto;
+  }
+  .chat-bottom {
+    padding: 12px;
+  }
+  .chat-messages {
+    padding: 15px 12px;
+  }
+  .message-body {
+    font-size: 11.7px;
+  }
+  .compliance-note {
+    font-size: 8.8px;
+    align-items: flex-start;
+  }
+  .quick-prompts {
+    display: none;
+  }
+  .chat-compose {
+    border-radius: 7px;
+    padding: 4px 4px 4px 9px;
+  }
+  .chat-compose > button {
+    width: 40px;
+  }
+  .chat-compose input::placeholder {
+    font-size: 11.5px;
+  }
+  .assistant-identity strong {
+    font-size: 11px;
+  }
+  .assistant-mark {
+    height: 31px;
+    width: 31px;
+  }
+  .chat-top .btn {
+    font-size: 9px;
+    padding: 0 8px;
+  }
+  .spread-fields {
+    grid-template-columns: 1fr;
+  }
+  .calendar-top {
+    padding: 10px 8px;
+  }
+  .calendar-top h2 {
+    font-size: 18px;
+  }
+  .calendar-top > div {
+    gap: 1px;
+  }
+  .calendar-top .btn {
+    font-size: 9px;
+    padding: 0 6px;
+  }
+  .calendar-top .icon-btn {
+    width: 26px;
+  }
+  .calendar-grid > button,
+  .calendar-grid > .off-month {
+    min-height: 54px;
+    padding: 4px;
+  }
+  .calendar-grid > button > span {
+    font-size: 10px;
+    height: 21px;
+    width: 21px;
+  }
+  .calendar-grid small {
+    font-size: 0;
+    padding: 0;
+    background: none;
+  }
+  .calendar-grid small i {
+    height: 5px;
+    width: 5px;
+    margin: 1px 8px;
+  }
+  .calendar-week span {
+    font-size: 8px;
+  }
+  .calendar-layout .agenda .padded {
+    display: block;
+  }
+  .calendar-hint {
+    font-size: 8px;
+  }
+  .agenda .padded {
+    padding: 7px 16px 15px;
+  }
+  .agenda-item {
+    padding: 13px 0;
+  }
+  .info-strip {
+    font-size: 10px;
+    align-items: flex-start;
+    padding: 12px;
+    gap: 8px;
+  }
+  .info-strip > svg {
+    width: 15px;
+    margin-top: 2px;
+  }
+  .dm-list {
+    height: 340px;
+    padding: 15px;
+  }
+  .dm {
+    max-width: 91%;
+    padding: 10px 12px;
+  }
+  .dm p {
+    font-size: 11.5px;
+  }
+  .message-panel .chat-top {
+    gap: 6px;
+  }
+  .message-panel .chat-top .status {
+    font-size: 8px;
+  }
+  .feature-grid,
+  .feature-grid.two-col {
+    grid-template-columns: 1fr;
+  }
+  .feature-card h3,
+  .integration-card h3,
+  .api-link-card h3 {
+    font-size: 21px;
+    margin-top: 12px;
+  }
+  .feature-card p,
+  .integration-card p,
+  .api-link-card p {
+    font-size: 12px;
+  }
+  .integration-top .status {
+    font-size: 9px;
+  }
+  .integration-foot {
+    padding-top: 7px;
+  }
+  .permission-intro {
+    margin: 10px;
+    padding: 12px;
+  }
+  .permission-intro h3 {
+    font-size: 12px;
+  }
+  .permission-intro p {
+    font-size: 10px;
+  }
+  .api-content {
+    padding: 15px;
+  }
+  .endpoint {
+    gap: 7px;
+  }
+  .endpoint code {
+    font-size: 10.5px;
+  }
+  .api-content > p {
+    font-size: 11px;
+  }
+  .api-result-head h3 {
+    font-size: 18px;
+  }
+  .code-block pre {
+    font-size: 9.5px;
+  }
+  .code-block {
+    padding: 13px;
+  }
+  .ownership-banner {
+    padding: 18px;
+    gap: 11px;
+    align-items: flex-start;
+  }
+  .ownership-banner h2 {
+    font-size: 21px;
+  }
+  .ownership-banner > svg {
+    width: 21px;
+  }
+  .ownership-banner p {
+    font-size: 10.5px;
+  }
+  .report-hero {
+    padding: 23px 18px;
+  }
+  .report-hero h2 {
+    font-size: 25px;
+  }
+  .report-hero p {
+    font-size: 11px;
+  }
+  .report-hero > small {
+    font-size: 9px;
+  }
+  .report-stats {
+    grid-template-columns: 1fr 1fr;
+    gap: 9px;
+  }
+  .report-stats > div:first-child {
+    grid-column: 1/-1;
+  }
+  .report-stats > div {
+    padding: 14px;
+  }
+  .report-stats h3 {
+    font-size: 24px;
+  }
+  .role-choice {
+    padding: 14px 10px;
+  }
+  .login-intro {
+    min-height: 180px;
+  }
+  .login-layout {
+    padding: 17px;
+    gap: 24px;
+  }
+  .login-options h2 {
+    font-size: 27px;
+  }
+  .login-options > p {
+    font-size: 12px;
+  }
+  .login-note {
+    font-size: 9.5px;
+  }
+  .role-choice strong {
+    font-size: 12px;
+  }
+  .role-choice small {
+    font-size: 10px;
+  }
+  .marketing-menu {
+    display: inline-flex;
+  }
+  .marketing-header > .brand .wordmark {
+    font-size: 27px;
+  }
+  .marketing-header > div:last-child {
+    gap: 3px;
+  }
+  .marketing-header .btn {
+    font-size: 10px;
+    padding: 0 10px;
+  }
+  .landing-hero {
+    min-height: 430px;
+  }
+  .landing-hero h1 {
+    font-size: 54px;
+    letter-spacing: -2.5px;
+  }
+  .landing-hero p {
+    font-size: 12px;
+  }
+  .hero-caption {
+    right: 12px;
+    bottom: 8px;
+  }
+  .hero-caption button {
+    min-height: 44px !important;
+  }
+  .marketing-card {
+    display: block;
+  }
+  .marketing-card .stock-photo {
+    height: 183px;
+    min-height: 0;
+  }
+  .marketing-card h3 {
+    font-size: 21px;
+  }
+  .marketing-card p {
+    font-size: 12px;
+  }
+  .marketing-section-title p {
+    font-size: 11.5px;
+  }
+  .security-feature {
+    gap: 9px;
+  }
+  .security-feature h2 {
+    font-size: 24px;
+  }
+  .security-feature p {
+    font-size: 11.5px;
+  }
+  .security-feature > svg {
+    width: 21px;
+  }
+  .how-grid {
+    gap: 14px;
+  }
+  .how-grid h3 {
+    font-size: 20px;
+  }
+  .testimonial {
+    grid-template-columns: 1fr;
+  }
+  .testimonial .stock-photo {
+    height: 140px;
+    min-height: 0;
+  }
+  .testimonial > div:last-child {
+    padding: 21px;
+  }
+  .faq summary {
+    min-height: 44px;
+    font-size: 12px;
+  }
+  .faq details {
+    padding: 5px 0;
+  }
+  .faq details p {
+    font-size: 11.5px;
+    margin: 5px 0 11px;
+  }
+  .marketing-cta {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .marketing-cta h2 {
+    font-size: 27px;
+  }
+  .marketing-intro {
+    padding: 31px 5vw;
+  }
+  .marketing-intro h1 {
+    font-size: 35px;
+  }
+  .marketing-intro p {
+    font-size: 12px;
+  }
+  .section-description {
+    font-size: 11.5px;
+  }
+  .marketing .approach-table {
+    padding-top: 5px;
+  }
+  .marketing .approach-table td {
+    padding: 6px 0;
+  }
+  .team-grid {
+    gap: 0;
+  }
+  .marketing-section h2 {
+    font-size: 28px;
+  }
+  .proposal-form {
+    padding: 19px 15px;
+  }
+  .proposal-intro h1 {
+    font-size: 34px;
+  }
+  .proposal-intro > p {
+    font-size: 12px;
+  }
+  .proposal-points span {
+    font-size: 11px;
+  }
+  .proposal-points {
+    padding: 15px 0;
+  }
+  .proposal-form h2 {
+    font-size: 26px;
+  }
+  .form-stack .select-wrap {
+    flex-direction: row;
+  }
+  .form-stack .select-wrap select {
+    border: none;
+    width: 100%;
+    padding: 5px;
+    font-size: 12px;
+  }
+  .loading-page {
+    padding: 28px 18px;
+  }
+  .skeleton-row {
+    gap: 8px;
+  }
+  .skeleton-row .skeleton {
+    height: 100px;
+  }
+  .sk-heading {
+    width: 77%;
+  }
+}
+@media print {
+  .sidebar,
+  .topbar,
+  .bottom-tabs,
+  .heading-actions,
+  .app-footer,
+  .sidebar-bottom {
+    display: none !important;
+  }
+  .workspace-body {
+    margin: 0;
+  }
+  .main-content {
+    padding: 10mm;
+  }
+  .panel {
+    break-inside: avoid;
+  }
+  .app-theme {
+    background: white;
+    color: black;
+  }
+}
+
+@media (max-width: 900px) {
+  .app-theme .btn,
+  .app-theme .select-wrap,
+  .app-theme .field-select,
+  .range-tabs button,
+  .allocation-legend button,
+  .tabs button,
+  .text-btn,
+  .icon-btn,
+  .role-choice,
+  .profile-button,
+  .bottom-tabs a,
+  .bottom-tabs button,
+  .source-chip,
+  .quick-prompts button,
+  .lead-card select,
+  .faq summary,
+  .chat-compose button,
+  .row-open,
+  .document-title,
+  .person-cell,
+  .metric-drill,
+  .copy-btn,
+  .briefing-card button {
+    min-height: 44px;
+  }
+  .form-stack input:not([type="file"]),
+  .form-stack select {
+    min-height: 44px;
+  }
+  .bottom-tabs a,
+  .bottom-tabs button {
+    min-width: 44px;
+  }
+  .metric-top .metric-drill {
+    align-self: center;
+  }
+  .metric-primary .metric-top {
+    min-height: 30px;
+  }
+  .metric-drill {
+    width: 25px;
+    min-height: 25px !important;
+    position: relative;
+  }
+  .metric-drill:before {
+    content: "";
+    position: absolute;
+    inset: -9.5px;
+  }
+  .portfolio-mini .row-open {
+    min-height: 44px;
+  }
+  .header-separator {
+    height: 20px;
+  }
+}
+@media (max-width: 560px) {
+  .portfolio-mini thead {
+    display: none;
+  }
+  .portfolio-mini,
+  .portfolio-mini tbody {
+    display: block;
+  }
+  .portfolio-mini tr {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    margin: 0 14px;
+    padding: 8px 0;
+    border-top: 1px solid var(--border);
+  }
+  .portfolio-mini td {
+    border: 0;
+    padding: 0 !important;
+  }
+  .portfolio-mini td:first-child {
+    grid-row: 1/3;
+  }
+  .portfolio-mini td:nth-child(2) {
+    align-self: end;
+    font-size: 12px;
+  }
+  .portfolio-mini td:nth-child(3) {
+    align-self: start;
+  }
+  .portfolio-mini .person-cell strong {
+    font-size: 11.7px;
+  }
+  .portfolio-mini .person-cell small {
+    font-size: 9px;
+  }
+  .portfolio-mini .avatar {
+    width: 32px;
+    height: 32px;
+    font-size: 9px;
+  }
+  .portfolio-mini .return-text {
+    font-size: 9px;
+  }
+  .performance-card .section-head {
+    gap: 9px;
+  }
+}
